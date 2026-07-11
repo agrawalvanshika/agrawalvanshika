@@ -6,16 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-1569%2B%20Rating-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/CGPA-8.58%2F10-brightgreen?style=flat" />
+  <a href="https://leetcode.com/u/vanshika1909/"><img src="https://img.shields.io/badge/LeetCode-1569%2B%20Rating-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🛠️ My Toolkit
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat-square)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square) ![C++](https://img.shields.io/badge/-C%2B%2B-1e1e2e?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat-square)
 
 **AI/ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-1e1e2e?style=flat-square) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-1e1e2e?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-1e1e2e?style=flat-square)
 
@@ -28,7 +26,12 @@
 ---
 
 ### 💼 Experience
-- 🔹 **AI Virtual Intern** — *Infosys Springboard* `[Sep 25 - Nov 25]`
+
+<!-- Fill in your actual roles below in this format -->
+- 🔹 **[Role]** — *[Company/Org]* `[Month Year – Month Year]`
+  <br>Short line on what you did / impact
+
+- 🔹 **AI Virtual Intern** — *Infosys Springboard* `[dates]`
   <br>Completed virtual AI/ML internship program
 
 <!-- Add more roles here -->
@@ -38,8 +41,8 @@
 ### 🥇 Certifications
 
 <!-- Fill in your actual certifications below in this format -->
-- 🏅 **[Certification Name]** — *SQL By Oracle* `([2024])`
-- 🏅 **[Certification Name]** — *AI & Gen AI By Info* `([2024])`
+- 🏅 **[Certification Name]** — *[Issuer]* `([Year])`
+- 🏅 **[Certification Name]** — *[Issuer]* `([Year])`
 
 ---
 
@@ -67,7 +70,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/vanshika1909?theme=dark&font=baloo2&ext=heatmap" />
 </p>
 
 ---
@@ -85,7 +88,7 @@
 ### 🏆 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo2" />
+  <img src="https://leetcard.jacoblin.cool/vanshika1909?theme=dark&font=baloo2" />
 </p>
 
 ---
@@ -93,8 +96,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/vanshika-agrawal-3193b22a3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/vanshika1909/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
