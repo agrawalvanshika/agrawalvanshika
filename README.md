@@ -9,7 +9,7 @@
 
 ### 🛠️ My Toolkit
 
-**Languages:** ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square) ![C++](https://img.shields.io/badge/-C%2B%2B-1e1e2e?style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat-square)
+**Languages:** ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square)  ![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat-square)
 
 **AI/ML:** ![PyTorch](https://img.shields.io/badge/-PyTorch-1e1e2e?style=flat-square) ![scikit--learn](https://img.shields.io/badge/-scikit--learn-1e1e2e?style=flat-square) ![OpenCV](https://img.shields.io/badge/-OpenCV-1e1e2e?style=flat-square)
 
