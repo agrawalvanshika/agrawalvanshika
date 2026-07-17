@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ My Toolkit
+### 🛠️ My ToolKit
 
 **Languages:** ![Python](https://img.shields.io/badge/-Python-1e1e2e?style=flat-square)  ![SQL](https://img.shields.io/badge/-SQL-1e1e2e?style=flat-square) ![Java](https://img.shields.io/badge/-Java-1e1e2e?style=flat-square)
 
@@ -22,7 +22,7 @@
 ---
 
 ### 💼 Experience
-- 🔹 **AI Virtual Intern** — *Infosys Springboard* `[Sep 25 - Nov 25]`
+- 🔹 **AI Intern (Remote)** — *Infosys Springboard* `[Sep 25 - Nov 25]`
   <br>Completed virtual AI/ML internship program
 
 <!-- Add more roles here -->
